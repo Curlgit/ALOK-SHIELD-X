@@ -31,7 +31,7 @@ pip install requests
 pkg update && pkg install nodejs
 ```
 ```sh
-git clone https://github.com/g/ALOK-SHIELD-X.git
+git clone https://github.com/Curlgit/ALOK-SHIELD-X.git
 ```
 ```sh
 cd ALOK-SHIELD-X
