@@ -1,5 +1,5 @@
 
-**Developer: **UG alok and RIS** · Version 1.0.0
+**Developer: **UG alok and Curlgit** · Version 1.0.0
 
 A compact, defensive, terminal-based security toolkit written in pure JavaScript for Node.js.
 No third-party packages, no web server, no `package.json`. Designed for Android **Termux** and desktop systems.
@@ -15,7 +15,7 @@ No third-party packages, no web server, no `package.json`. Designed for Android 
 | 5 | **PassCheck** | Offline password strength estimate (hidden input, never stored or sent) |
 | 6 | **FileSentinel** | SHA-256 of a local file with optional expected-hash comparison (read-only) |
 | 7 | **DNSLens / NetWatch** | A / AAAA / CNAME lookups with timing, plus read-only local network info |
-| 8 | **Fake Website Checker** | Lookalike/phishing indicators with verdict: LIKELY LEGITIMATE, SUSPICIOUS, HIGH RISK, INSUFFICIENT EVIDENCE |
+| 8 | **Fake Website Checker** | Lookalike/phishing indicators with verdict: LIKELY LEGITIMATE, SUSPICIOUS, HIGH CurlgitK, INSUFFICIENT EVIDENCE |
 | 9 | **Local Request Tester** | Rate-limited GET tester for **loopback servers only** |
 
 ## Requirements
@@ -31,7 +31,7 @@ pip install requests
 pkg update && pkg install nodejs
 ```
 ```sh
-git clone https://github.com/RIS/ALOK-SHIELD-X.git
+git clone https://github.com/Curlgit/ALOK-SHIELD-X.git
 ```
 ```sh
 cd ALOK-SHIELD-X
@@ -108,4 +108,4 @@ You are asked each time before the full URL is sent to Google. This path require
 🙏 **Disclaimer**
 **Use these tools only on devices, networks, files and websites that you own or are explicitly authorized to test. The developer provides no warranty and is not responsible for misuse. Results are informational and do not replace professional security review**
 
-**Developer: RIS and UG ALOK**
+**Developer: Curlgit and UG ALOK**
